@@ -21,6 +21,8 @@
 - 👾 Playing Lol at spare time 👾
 - 🃏 I have knowledge in .net and c#
 - 📫 Feel free to reach me out jmalmendro@hotmail.com
+- 😐 I have a love/hate relationship with Programming
+- 💻 I am a programmer from the National Technological University
 
 <br>
 <h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="65"/></h3>  
