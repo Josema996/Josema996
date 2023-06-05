@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D4D16AQG30e9qfsj90w/profile-displaybackgroundimage-shrink_350_1400/0/1685936239241?e=1691625600&v=beta&t=pfkmgRINpS0cRYB0-3E6zyN8VwPBMIAdcd7skI9iQcw" height="65px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D4D16AQG30e9qfsj90w/profile-displaybackgroundimage-shrink_350_1400/0/1685936239241?e=1691625600&v=beta&t=pfkmgRINpS0cRYB0-3E6zyN8VwPBMIAdcd7skI9iQcw" height="45px"/></a>
 <h1 align="center"><b>Hi , I'm Almendro Jose Maria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--- snake -->
