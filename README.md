@@ -23,7 +23,7 @@
 - 📫 Feel free to reach me out jmalmendro@hotmail.com
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="65"/>
 <p align="left">
 <a href="https://linkedin.com/in/jose maria almendro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose maria almendro" height="30" width="40" /></a>
 <a href="https://fb.com/jose maria almendro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jose maria almendro" height="30" width="40" /></a>
