@@ -1,3 +1,4 @@
+<div style="border: 2px solid #ff0000; padding: 20px;">
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="65px"/></a>
 <h1 align="center"><b>Hi , I'm Almendro Jose Maria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -41,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josema996&show_icons=true&locale=en" alt="josema996" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josema996&" alt="josema996" /></p>
+</div>
