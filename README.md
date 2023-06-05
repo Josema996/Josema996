@@ -1,4 +1,8 @@
-<h1 align="center"><b>Hi , I'm Almendro Jose Maria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <img src="URL_DE_LA_IMAGEN" alt="Tu Nombre" width="50" height="50" style="border-radius: 50%;">
+  <b>Hi, I'm Almendro Jose Maria</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <!--- snake -->
 <div align="center">
