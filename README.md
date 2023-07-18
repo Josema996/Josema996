@@ -1,8 +1,6 @@
 
 <a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D4D16AQGN8B-sDUrktg/profile-displaybackgroundimage-shrink_350_1400/0/1686094509892?e=1691625600&v=beta&t=iXXVIebKX_wnL4bOHEI1LAL2ub7vjF71F_EVrSDqII8" height="45px"/></a>
 <h1 align="center"><b>Hi , I'm Almendro Jose Maria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/josema996/count.svg" alt="josema996"/></p>
 
 <!--- snake -->
 <div align="center">
